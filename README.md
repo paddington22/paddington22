@@ -1,7 +1,7 @@
 ## Hi, I'm Pavel Korolev 👋
 I am a junior Python developer.
 
-Recently, I changed my field of expertise, and for the past six months, I have been actively studying Python and coding in it. During this time, I have mastered algorithms and classical data structures, the basics of OOP, and HTML. I also have experience working with the version control system Git and relational databases (PostgreSQL). Using the ## Django framework, I developed my first project - an online store.
+Recently, I changed my field of expertise, and for the past six months, I have been actively studying Python and coding in it. During this time, I have mastered algorithms and classical data structures, the basics of OOP, and HTML. I also have experience working with the version control system Git and relational databases (PostgreSQL). Using the Django framework, I developed my first project - an online store.
 
 I am currently dedicating a significant amount of my time to learning Django. In the near future, I also plan to learn FastAPI.
 
